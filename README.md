@@ -183,6 +183,4 @@ The API includes basic error handling for:
 - Missing model file
 - Prediction errors
 
-## License
 
-This project is open source and available under the MIT License.
